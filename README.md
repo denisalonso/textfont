@@ -1,5 +1,7 @@
 # Entrega parcial para Fontes e textos desestruturados
 
+#### Primeira entrega: 12/05/2025
+
 ## Alunos:
  - Denis Alonso
  - John Yang
