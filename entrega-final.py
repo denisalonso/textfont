@@ -184,3 +184,6 @@ for categoria in df_final['Categoria'].unique():
             print(f" Tópico {i+1}: {topico}")
     else:
         print(f"\nCategoria {categoria} tem poucos títulos para modelagem.")
+
+
+# ///////////////////////////////////////////////////////////
